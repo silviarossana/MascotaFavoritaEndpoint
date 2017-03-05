@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682233387806",
+    "firebase_url": "https://petagrammodulo4.firebaseio.com",
+    "project_id": "petagrammodulo4",
+    "storage_bucket": "petagrammodulo4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682233387806:android:ac14328899a72c01",
+        "android_client_info": {
+          "package_name": "com.gt.silviarossana.mascotasfavoritas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682233387806-pvvlg0fi32ahpag5b5vlqv4ltv420h3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gt.silviarossana.mascotasfavoritas",
+            "certificate_hash": "efce808e6f4aba9a4caab953d3319d75cf0c1580"
+          }
+        },
+        {
+          "client_id": "682233387806-9b5aoiifug2e0i766btgvt1onceqlbpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_aT-PwMJIzdLmkNfKe9SJB1CAAUY99DI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682233387806-9b5aoiifug2e0i766btgvt1onceqlbpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
